@@ -1,0 +1,4 @@
+Epoch 0
+Train: loss: 1599.544677734375 minLoss: 1599.544677734375 bestEpoch: 0 norm:0.9999999403953552 
+Test: loss: 1544.93115234375 minLoss: 1544.93115234375 bestEpoch:0, evalSuccessNum:0/9 rate:0.0
+Epoch 1

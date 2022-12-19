@@ -1,0 +1,37 @@
+Epoch 0
+Train: loss: 1599.544677734375 minLoss: 1599.544677734375 bestEpoch: 0 norm:0.9999999403953552 
+Test: loss: 1544.93115234375 minLoss: 1544.93115234375 bestEpoch:0, evalSuccessNum:0/9 rate:0.0
+Epoch 1
+Train: loss: 1632.642333984375 minLoss: 1599.544677734375 bestEpoch: 0 norm:0.9999999403953552 
+Test: loss: 1520.330810546875 minLoss: 1520.330810546875 bestEpoch:1, evalSuccessNum:0/9 rate:0.0
+Epoch 2
+Train: loss: 1588.072998046875 minLoss: 1588.072998046875 bestEpoch: 2 norm:1.0 
+Test: loss: 1492.310546875 minLoss: 1492.310546875 bestEpoch:2, evalSuccessNum:0/9 rate:0.0
+Epoch 3
+Train: loss: 1365.7322998046875 minLoss: 1365.7322998046875 bestEpoch: 3 norm:0.9999999403953552 
+Test: loss: 1463.205322265625 minLoss: 1463.205322265625 bestEpoch:3, evalSuccessNum:0/9 rate:0.0
+Epoch 4
+Train: loss: 1514.5283203125 minLoss: 1365.7322998046875 bestEpoch: 3 norm:1.0 
+Test: loss: 1434.8095703125 minLoss: 1434.8095703125 bestEpoch:4, evalSuccessNum:0/9 rate:0.0
+Epoch 5
+Train: loss: 1465.013427734375 minLoss: 1365.7322998046875 bestEpoch: 3 norm:1.0 
+Test: loss: 1407.05078125 minLoss: 1407.05078125 bestEpoch:5, evalSuccessNum:0/9 rate:0.0
+Epoch 6
+Train: loss: 1450.9796142578125 minLoss: 1365.7322998046875 bestEpoch: 3 norm:1.0 
+Test: loss: 1379.039794921875 minLoss: 1379.039794921875 bestEpoch:6, evalSuccessNum:0/9 rate:0.0
+Epoch 7
+Train: loss: 1430.969482421875 minLoss: 1365.7322998046875 bestEpoch: 3 norm:0.9999998807907104 
+Test: loss: 1351.2696533203125 minLoss: 1351.2696533203125 bestEpoch:7, evalSuccessNum:0/9 rate:0.0
+Epoch 8
+Train: loss: 1475.3509521484375 minLoss: 1365.7322998046875 bestEpoch: 3 norm:0.9999998807907104 
+Test: loss: 1324.41259765625 minLoss: 1324.41259765625 bestEpoch:8, evalSuccessNum:0/9 rate:0.0
+Epoch 9
+Train: loss: 1377.1212158203125 minLoss: 1365.7322998046875 bestEpoch: 3 norm:0.9999998211860657 
+Test: loss: 1297.0633544921875 minLoss: 1297.0633544921875 bestEpoch:9, evalSuccessNum:0/9 rate:0.0
+Epoch 10
+Train: loss: 1373.5877685546875 minLoss: 1365.7322998046875 bestEpoch: 3 norm:1.0 
+Test: loss: 1269.00244140625 minLoss: 1269.00244140625 bestEpoch:10, evalSuccessNum:0/9 rate:0.0
+Epoch 11
+Train: loss: 1363.5986328125 minLoss: 1363.5986328125 bestEpoch: 11 norm:0.9999998807907104 
+Test: loss: 1241.94580078125 minLoss: 1241.94580078125 bestEpoch:11, evalSuccessNum:0/9 rate:0.0
+Epoch 12
