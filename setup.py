@@ -11,7 +11,7 @@ from distutils.version import LooseVersion
 
 class CMakeExtension(Extension):
     def __init__(self, name, sourcedir=''):
-        Extension.__init__(self, name, sources=[])
+        Extension.__init__(self, name, sources=[], extra_compile_args = '-std=c++17')
         self.sourcedir = os.path.abspath(sourcedir)
 
 
